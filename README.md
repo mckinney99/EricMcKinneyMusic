@@ -1,2 +1,2 @@
 # EricMcKinneyMusic
-Eric McKinney Music, News, Videos, Bio and more. 
+Eric McKinney Music, News, Videos, Bio and much more. 
