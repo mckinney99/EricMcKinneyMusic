@@ -1,0 +1,8 @@
+title: Ericmckinneymusic
+description: "Eric McKinney Music, News, Videos, Bio and more. "
+google_analytics: UA-65576110-1
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
