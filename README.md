@@ -2,4 +2,4 @@
 Eric McKinney Music, News, Videos, Bio and much more. 
 and
 
-still learning... new code up soon!!
+still learning... new code up soon!!!
